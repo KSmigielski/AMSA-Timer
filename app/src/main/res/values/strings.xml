@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Timer</string>
+    <string name="IncreaseButton">+</string>
+    <string name="DecreaseButton">-</string>
+    <string name="PauseButton">Pause</string>
+    <string name="StopButton">Stop</string>
+    <string name="StartButton">Start</string>
+    <string name="SeparatorText">:</string>
+</resources>
